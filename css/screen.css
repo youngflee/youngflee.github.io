@@ -1,0 +1,185 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #f6f3ec;
+  color: #3d3c41;
+  font-family: "fira-sans";
+  font-style: normal;
+  *font-size: small;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #664847;
+}
+
+a:hover {
+  color: #3d3c41;
+}
+
+a:visited {
+  color: #353e43;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: "fira-sans";
+  font-style: normal;
+  font-weight: 300;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  width: 50em;
+  margin: 1.5em auto;
+  line-height: 1.5em
+}
+
+.site .logo {
+  display: block;
+  height: 175px;
+  margin: 0 auto 1em auto;
+}
+
+.site .navbar {
+  font-size: 125%;
+  font-weight: 500;
+  text-align: center;
+  margin: 0 auto 3.5em auto;
+}
+
+.site .navbar a {
+  margin: 4em 13px;
+  text-decoration: none;
+  color: #353e43
+}
+
+.site .footer {
+  margin-top: 2em;
+  border-top: 4px solid #d1beb8;
+}
+
+.site .footer .extra_footer {
+  text-align: center;
+  margin: 3em 0 2em 0;
+  width: auto;
+}
+
+.site .footer .extra_footer a {
+  padding: 10px;
+  color: #353e43
+}
+
+.site .footer .extra_footer a:visited {
+  color: #353e43
+}
+
+.site .meta {
+  color: #3d3c41;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+
+}
+
+/* standard */
+
+#post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+#post ul,
+#post ol {
+  margin-left: 1.35em;
+}
+
+#post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 .2em;
+}
+
+#post pre code {
+  border: none;
+}
+
+/* terminal */
+
+#post pre.terminal {
+  border: 1px solid black;
+  background-color: #333;
+  color: white;
+}
+
+#post pre.terminal code {
+  background-color: #333;
+}
+
+#related {
+  margin-top: 2em;
+}
+
+#related h2 {
+  margin-bottom: 1em;
+}

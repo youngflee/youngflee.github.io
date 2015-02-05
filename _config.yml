@@ -1,0 +1,5 @@
+source: .
+destination: ./_site
+safe: Yes
+timezone: America/Chicago
+encoding: utf-8
