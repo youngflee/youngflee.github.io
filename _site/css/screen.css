@@ -107,13 +107,14 @@ ul.posts span {
 }
 
 .site .footer {
+  text-align: center;
+  width: auto;
   margin-top: 2em;
   border-top: 4px solid #d1beb8;
 }
 
 .site .footer .extra_footer {
-  text-align: center;
-  margin: 3em 0 2em 0;
+  margin-top: 1em;
   width: auto;
 }
 
