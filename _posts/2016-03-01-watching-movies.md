@@ -67,6 +67,6 @@ So that's my thoughts on the movies I watched these past few days. If you're int
 7. Goldfinger
 8. The Bad Sleep Well (a Kurosawa film)
 
-So that's what I'll be talking about in my next blog. See you all then, I guess.
+So that's what I'll be talking about in my next blog. See you all then!
 
 <img src="https://media.giphy.com/media/KBfKueAjIJV8Q/giphy.gif" alt="Finger Gun" style="width: 35em; margin: 1em 7.5em;">
