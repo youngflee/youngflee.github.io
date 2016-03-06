@@ -60,9 +60,9 @@ So that's my thoughts on the movies I watched these past few days. If you're int
 
 1. Princess Mononoke
 2. The Big Lebowski
-3. 2001: A Space Odyssey
+3. <s>2001: A Space Odyssey</s> JK, Drive (as of March 4th)
 4. Upstream Color (by Shane Carruth who made Primer)
-5. The Green Mile
+5. <s>The Green Mile</s> JK, Apocalypse Now (as of March 5th)
 6. The Third Man
 7. Goldfinger
 8. The Bad Sleep Well (a Kurosawa film)
