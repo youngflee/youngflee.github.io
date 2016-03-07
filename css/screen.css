@@ -15,6 +15,32 @@ html, body {
   height: 100%;
 }
 
+@font-face {
+  font-family: "fira-sans";
+  src: "/fonts/FiraSans-Light.otf";
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "fira-sans";
+  src: "/fonts/FiraSans-LightItalic.otf";
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "fira-sans";
+  src: "/fonts/FiraSans-Medium.otf";
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "fira-sans";
+  src: "/fonts/FiraSans-MediumItalic.otf";
+  font-weight: 500;
+  font-style: italic;
+}
+
 body {
   background-color: #f6f3ec;
   color: #3d3c41;
