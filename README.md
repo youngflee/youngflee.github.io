@@ -1,4 +1,4 @@
 youngflee.github.io
 ===================
 
-Personal website. (http://youngflee.xyz)
+Personal website. http://youngflee.xyz
