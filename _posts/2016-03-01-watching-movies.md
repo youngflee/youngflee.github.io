@@ -16,7 +16,7 @@ Anyway, the good news is that I'll have material for the next few weeks, and pro
 
 So far, I have rewatched Spirited Away and Watership Down, and watched Millennium Actress and Paprika (from Japanese filmmaker Satoshi Kon). I'll give a quick rundown on what I think of all four of those. No spoilers here, so don't worry about anything - I'm not giving anything away, other than how good/mediocre/bad they are.    
 
-__Spirited Away: 4.5/5__
+__Spirited Away: 9.5/10__
 
 If you have never watched Spirited Away, you seriously should. I could praise this movie until the cows come home. To summarize the plot, a girl's family is moving into town and stumble upon an abandoned amusement park. While exploring, the main character - Chihiro - and her parents get whisked into a strange spirit world. Her parents are turned into pigs by the witch that runs the nearby bathhouse, and Chihiro embarks on a journey to save them.    
 
@@ -26,7 +26,7 @@ The standout aspects of the movie are the excellent score, composed by Studio Gh
 
 I always liked the plot, but many people criticize the ending for being kind of a sputtering end rather than a smooth finish. I agree that it's a bit lackluster, but I still have always liked it. The ending really isn't that bad, and I just think the movie can't help but be liked in the end. The way the spirit world was portrayed as a fairy tale - topsy turvy, never to be questioned and never to be explained - just makes it all great.
 
-__Watership Down: 3.5/5__
+__Watership Down: 7/10__
 
 Based off the Richard Adams children's novel, this is a movie about a group of rabbits who discover their warren is in some sort of strange danger and venture off to find a new home. Like the novel, it's an allegory for government systems, which is apparent when you watch it and see the way various rabbit leaders are portrayed.    
 
@@ -38,9 +38,9 @@ Still, there are nice moments. The especially powerful ones, for me, are still t
 
 The animation itself is also pretty nice. I like the watercolor-like backgrounds that make every frame truly a painting. It's not as good as Spirited Away's animation, though.    
 
-__Millennium Actress: 3.25/5__
+__Millennium Actress: 6.5/10__
 
-__Paprika: 4.5/5__
+__Paprika: 9/10__
 
 Both Millennium Actress and Paprika were made by Satoshi Kon who is possibly the second most famous Japanese filmmaker, behind Miyazaki. Kon has made a particular style out of his [distinctive editing style](https://www.youtube.com/watch?v=oz49vQwSoTE), with very interesting cuts that warp both space and time until the movie ends up feeling like a Faulkner novel where you can't figure out where and when you even are. This is done through many, many match cuts, and they're actually super awesome. For details, watch the previously-linked-to video essay on Kon's work.    
 
