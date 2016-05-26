@@ -43,6 +43,11 @@ b {
   font-stretch: expanded;
 }
 
+strong {
+  letter-spacing: 1px;
+  font-stretch: expanded;
+}
+
 a {
   color: #664847;
 }
