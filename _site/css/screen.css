@@ -36,6 +36,10 @@ p {
   margin: 1em 0;
 }
 
+p .hi {
+  font-size: 125%;
+}
+
 a {
   color: #664847;
 }
