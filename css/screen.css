@@ -126,12 +126,13 @@ ul.posts span {
 }
 
 .site .footer .extra_footer {
-  margin-top: 1em;
+  margin-top: 2em;
   width: auto;
 }
 
 .site .footer .extra_footer .text_for_footer {
   line-height: 60%;
+  margin-bottom: 2em;
 }
 
 .site .footer .extra_footer b {
