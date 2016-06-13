@@ -130,6 +130,10 @@ ul.posts span {
   width: auto;
 }
 
+.site .footer .extra_footer .text_for_footer {
+  line-height: 60%;
+}
+
 .site .footer .extra_footer b {
   color: #353e43;
 }

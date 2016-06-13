@@ -26,6 +26,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
+  letter-spacing: 1px;
+  font-stretch: expanded;
 }
 
 h1 {
@@ -36,8 +38,14 @@ p {
   margin: 1em 0;
 }
 
-p .hi {
-  font-weight: 500;
+b {
+  letter-spacing: 1px;
+  font-stretch: expanded;
+}
+
+strong {
+  letter-spacing: 1px;
+  font-stretch: expanded;
 }
 
 a {
@@ -120,6 +128,10 @@ ul.posts span {
 .site .footer .extra_footer {
   margin-top: 1em;
   width: auto;
+}
+
+.site .footer .extra_footer .text_for_footer {
+  line-height: 60%;
 }
 
 .site .footer .extra_footer b {
