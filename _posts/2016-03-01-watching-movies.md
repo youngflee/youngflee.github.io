@@ -6,7 +6,7 @@ title: Watching Movies
 {{ page.title }}
 ================
 
-<p class="meta">01 Mar 2015 - Buffalo Grove, Illinois - 21:04</p>
+<p class="meta">01 Mar 2016 - Buffalo Grove, Illinois - 21:04</p>
 
 Man, it's been a while since I've posted anything in this blog.    
 
