@@ -3,7 +3,7 @@ layout: post
 title: A Hopeful Epiphany
 ---
 
-<i>This post is relic of a time gone by. While I don't think the way I do in this post anymore, my past and the ideas I came up with are still a part of me. So though this post might not be particularly entertaining, I hope it's, at the very least, interesting.</i><br /> <br />
+<i>This post is relic of a time gone by. It's a little strange, and I don't think the way I did in this post anymore, but the ideas I came up with before are still a part of me, so I hope this is, at the very least, somewhat interesting.</i><br /> <br />
 
 {{ page.title }}
 ================
