@@ -22,6 +22,8 @@ title: Ceci n’est pas une histoire
 
 <i>So yeah, they were all really great films (except, Goldfinger, eh…). I'll hopefully be able to write my thoughts on all of them, but in the meantime, here's an essay I wrote.</i><br /> <br />
 
+<p style="text-align: center; font-weight: 500">•</p>
+
 Sometimes you have to distill experience into pure emotion. In The Sound and the Fury, piecing together the sequence of events really isn’t as important as understanding, well, the sound and the fury. Who knew.    
 
 We’re all Benjy in some sense. We all experience life as a fluid, a cup of water sloshing to the rim and finally spilling all over the table, falling in perfect droplets. Time and sense are fragile, surface tension broken with a touch. It all moves from one place to another just as easily as the water does.    
@@ -41,8 +43,8 @@ Suddenly, the noise fades, and we’re taken to the perspective of Heidgen the k
 
 	Hey you beauty supreme,
 	Yeah, you were right about me.
-	But can I get myself out from underneath
-	This guilt that will crush me.
+	But can I get myself out from underneath,
+	This guilt that will crush me?
 
 	And in the choir,
 	I saw our sad messiah.
@@ -64,7 +66,7 @@ The rest of the song is a flurry of distorted guitar over the words Jennifer sai
 
 The song sputters to an end, arpeggios on B and G chords slowing to a halt. The story closes just as it began: in silence.    
 
-“He was bored and tired of my laments.” A sigh. I watched Jesus’s eyes glaze over, staring at a pathetic sight that lay before him. I’m not Heidgen, but I still replied, “Well, I should be laughing now…”    
+“He was bored and tired of my laments.” A sigh. I watched Jesus’s eyes glaze over, staring at the pathetic sight that lay before him. I gazed back, and said, “Well, I should be laughing now…”    
 
 <p style="text-align: center; font-weight: 500">•</p>
 
