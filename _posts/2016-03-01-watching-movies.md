@@ -30,7 +30,10 @@ __Watership Down: 7/10__
 
 Based off the Richard Adams children's novel, this is a movie about a group of rabbits who discover their warren is in some sort of strange danger and venture off to find a new home. Like the novel, it's an allegory for government systems, with each warren the group discovers being organized (or ruled) a different way.    
 
-<img src="{{ site.url }}/images/watership-down.jpg" alt="Watership Down" style="width: 35em; margin: 1em 7.5em;"/>
+<figure>
+	<img src="{{ site.url }}/images/watership-down.jpg" alt="Watership Down" style="width: 35em; margin: 1em 7.5em 0.5em 7.5em;"/>
+	<figcaption style="text-align: center;"><i>Bun buns</i></figcaption>
+</figure>
 
 I rewatched the film, and it wasn't as good on the second viewing as it felt on the first. The standout aspect of the story was the portrayal of the rabbits' belief system, presented through the introduction and the rabbits' dialogues. Like other allegorical tales, it uses spare words to create inward resonance, which is where the film's power comes from. On second viewing, though, the dialogue began to seem pithy and forceful, diminishing the film's overall effect.    
 
@@ -46,7 +49,10 @@ Both Millennium Actress and Paprika were made by Satoshi Kon, possibly the secon
 
 This warping of space and time suits the narrative Kon wishes to draw. As Tony describes in his video essay, Kon's films draw dichotomies between the different identities of their characters, whether that be onscreen-offscreen (Millennium Actress) or waking-dreaming (Paprika). The match cuts draw these comparisons literally seamlessly; without even realizing it's happening; instantaneously, within just a few frames.    
 
-<img src="https://otakufilms.files.wordpress.com/2015/02/giphy.gif" alt="Paprika Fascinating Cut" style="width: 35em; margin: 1em 7.5em;">
+<figure>
+	<img src="https://otakufilms.files.wordpress.com/2015/02/giphy.gif" alt="Paprika Fascinating Cut" style="width: 35em; margin: 1em 7.5em 0.5em 7.5em;">
+	<figcaption style="text-align: center;"><i>Holy…</i></figcaption>
+</figure>
 
 Kon's style makes for interesting, and sometimes confusing, experiences. For both of these films, I couldn't keep track of exactly what was going on anywhere beyond the initial exposition. In both films, there are two different worlds you're seeing at any given moment, with the edits transporting you between them; but after a while, the movies seem to be mixing the two worlds together, making it virtually impossible to actually distinguish which one you're seeing. Or maybe it's possible, and I just wasn't paying close enough attention while watching these two films. In any case, the films definitely suggest a fading distinction between the two worlds as time goes on, so I found that trying to piece together what was going on was actually detrimental to enjoying the film. I ended up just letting the narrative unfold and appreciating the movie that way. The conclusion of the films both solidly established what ended up happening altogether, so it all made sense in the end.    
 
