@@ -8,9 +8,9 @@ title: Ceci n’est pas une histoire
 
 <p class="meta">01 Oct 2016 - Buffalo Grove, Illinois - 02:04</p>
 
-_OK, so it turns out trying to watch a movie a day is a huge time sink. I did it for about a week and a half, but eventually couldn't handle the time. Whoops._
+_OK, so I watched a movie a day for about a week or so, and then just started forgetting about watching more. Whoops._
 
-_Even writing about all of the films I mentioned in the last blog post was hard. There's a lot to discuss in all of those films. They all ended up being very good, with these ratings:_
+_All the movies I ended up watching were really incredible, at least. I rated them like this:_
 
 - _Princess Momonoke: 9.5/10_
 - _The Big Lebowski: 7.5/10_
@@ -20,15 +20,15 @@ _Even writing about all of the films I mentioned in the last blog post was hard.
 - _The Third Man: 9/10_
 - _Goldfinger: 6.5/10_
 
-_So yeah, they were all really great films (except, Goldfinger, eh…). I'll hopefully be able to write my thoughts on all of them, but in the meantime, here's an essay I wrote about stories._<br /> <br />
+_I really enjoyed all of them (except for maybe Goldfinger…). I'll try to write up my thoughts on all of them eventually, but in the meantime, here's an essay I wrote about stories._<br /> <br /><br /><br />
 
 <p style="text-align: center; font-weight: 500">•</p>
 
-Sometimes you have to distill experience into pure emotion. In The Sound and the Fury, piecing together the sequence of events really isn’t as important as understanding, well, the sound and the fury. Who knew.    
+So what is a story, anyway? It's made up of words, and images, and chronology, and sound, but the end result is what remains after one has processed those details.    
 
-We’re all Benjy in some sense. We all experience life as a fluid, a cup of water sloshing to the rim and finally spilling all over the table, falling in perfect droplets. Time and sense are fragile, surface tension broken with a touch. It all moves from one place to another just as easily as the water does.    
+Sometimes you have to distill experience into pure emotion. We're all Benjy, after all; we all experience life as a fluid, a cup of water sloshing to the rim and spilling onto the table, falling in infinitesimal droplets. Time and sense are fragile, surfaces shattered with a touch. Just as it did for Benjy, who couldn't tell one time from another. It all moves from one place to another just as easily as the water does.    
 
-The only thing that really matters is the truth it gives you, distilled in the wine it transforms into. Drink up and feel yourself filled with the emotion an entire spectrum of sensations have clumped themselves into. That is what a story is.    
+The only thing that truly matters is the truth it gives you, distilled in the wine it transforms into. Drink up and feel yourself filled with the emotion an entire spectrum of sensations have clumped themselves into. That is what a story is.    
 
 <p style="text-align: center; font-weight: 500">•</p>
 
