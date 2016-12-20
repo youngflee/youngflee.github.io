@@ -8,19 +8,19 @@ title: Ceci n’est pas une histoire
 
 <p class="meta">01 Oct 2016 - Buffalo Grove, Illinois - 02:04</p>
 
-<i>OK, so it turns out trying to watch a movie a day is a huge time sink. I did it for about a week and a half, but eventually couldn't handle the time. Whoops.
+_OK, so it turns out trying to watch a movie a day is a huge time sink. I did it for about a week and a half, but eventually couldn't handle the time. Whoops._
 
-<i>Even writing about all of the films I mentioned in the last blog post was hard. There's a lot to discuss in all of those films. They all ended up being very good, with these ratings:
+_Even writing about all of the films I mentioned in the last blog post was hard. There's a lot to discuss in all of those films. They all ended up being very good, with these ratings:_
 
-- <i>Princess Momonoke: 9.5/10
-- <i>The Big Lebowski: 7.5/10
-- <i>Drive: 9.5/10
-- <i>Upstream Color: 8.5/10
-- <i>Apocalypse Now: 9/10
-- <i>The Third Man: 9/10
-- <i>Goldfinger: 6.5/10
+- _Princess Momonoke: 9.5/10_
+- _The Big Lebowski: 7.5/10_
+- _Drive: 9.5/10_
+- _Upstream Color: 8.5/10_
+- _Apocalypse Now: 9/10_
+- _The Third Man: 9/10_
+- _Goldfinger: 6.5/10_
 
-<i>So yeah, they were all really great films (except, Goldfinger, eh…). I'll hopefully be able to write my thoughts on all of them, but in the meantime, here's an essay I wrote.</i><br /> <br />
+_So yeah, they were all really great films (except, Goldfinger, eh…). I'll hopefully be able to write my thoughts on all of them, but in the meantime, here's an essay I wrote about stories._<br /> <br />
 
 <p style="text-align: center; font-weight: 500">•</p>
 
@@ -100,4 +100,12 @@ Nothing. It is nothing. Ceci n’est pas une pipe. I came to terms with the fact
 
 “Oh, it looks nice. The composition is pretty. Magritte made the red tiled roofs provide a contrast to the geometric pattern of falling bowler hat men.”    
 
-No. Stop. Ceci n’est pas une pipe. Ceci n’est pas une histoire. Ceci n’est pas. It is not.
+No. Ceci n’est pas une pipe. Ceci n’est pas une histoire. Ceci n’est pas. It is not.    
+
+<p style="text-align: center; font-weight: 500">•</p>
+
+_Many thanks to Brand New, James Algar, Walt Disney Pictures, René Magritte, and countless other artists for providing stories that have been central to my life._    
+
+_Rest in Peace_  
+_Satoshi Kon_  
+_August 24, 2010_
