@@ -6,7 +6,7 @@ title: Ceci n’est pas une histoire
 {{ page.title }}
 ================
 
-<p class="meta">01 Nov 2016 - Buffalo Grove, Illinois - 02:04</p>
+<p class="meta">01 Oct 2016 - Buffalo Grove, Illinois - 02:04</p>
 
 <i>OK, so it turns out trying to watch a movie a day is a huge time sink. I did it for about a week and a half, but eventually couldn't handle the time. Whoops.
 
