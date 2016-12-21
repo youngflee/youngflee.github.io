@@ -8,9 +8,7 @@ title: Ceci n’est pas une histoire
 
 <p class="meta">01 Oct 2016 - Buffalo Grove, Illinois - 02:04</p>
 
-_OK, so I watched a movie a day for about a week or so, and then just started forgetting about watching more. Whoops._
-
-_All the movies I ended up watching were really incredible, at least. I rated them like this:_
+_All the movies I listed in the last blog were really terrific! (except Goldfinger, which was alright I guess) I rated them like this:_
 
 - _Princess Momonoke: 9.5/10_
 - _The Big Lebowski: 7.5/10_
@@ -20,7 +18,7 @@ _All the movies I ended up watching were really incredible, at least. I rated th
 - _The Third Man: 9/10_
 - _Goldfinger: 6.5/10_
 
-_I really enjoyed all of them (except for maybe Goldfinger…). I'll try to write up my thoughts on all of them eventually, but in the meantime, here's an essay I wrote about stories._<br /> <br /><br /><br />
+_I have watched a couple of other movies in the meantime (Primer, Edge of Tomorrow, There Will Be Blood), but I haven't a ton of time to dedicate to this one-movie-a-day endeavor. Turns out, it's actually really hard fitting all those movies into a daily schedule! I'll try to write up my thoughts on all of them eventually, but to hold you over in the meantime, here's an essay I wrote about stories._<br /> <br /><br /><br />
 
 <p style="text-align: center; font-weight: 500">•</p>
 
@@ -96,11 +94,16 @@ All of art, I would assert, follows this very rule: they create stories, but the
 
 All conceptions of art, all interpretation, is an abstraction. Consider The Treachery of Images by René Magritte. “Ceci n’est pas une pipe.” This is not a pipe. A depiction of a pipe, Magritte posits, is not a pipe. If you look at the painting on a computer screen, you are not looking at a pipe. In both cases, you are seeing color; the real painting uses pigment, and the computer screen uses RGB dots. In either case, pieced together as gestalt it appears as a pipe, but the reality is that it is not. It is an abstraction of ink, or dots, or pigment, or whatever medium it uses to create a visual of…    
 
-Nothing. It is nothing. Ceci n’est pas une pipe. I came to terms with the fact that I had an emotional response to nothing. I ignored interpretation, and let myself annihilate all prior conceptions of what a piece was, or could be. I let it wash over, cleansing the word “art” from our superimposed naïveté. The true experience in story is an abstraction, but not an abstraction from the picture - it’s an abstraction from the dots on the canvas, the pure truth, that permits the real truth to come out in art.    
+Nothing. It is nothing. Ceci n’est pas une pipe. I came to terms with the fact that I had an emotional response to nothing. I ignored interpretation, and let myself liquidate all prior conceptions of what a piece was, or could be. I let it wash over, cleansing the word “art” from our superimposed naïveté. The true experience in story is an abstraction, but not an abstraction from the picture - it’s an abstraction from the dots on the canvas, the pure truth, that permits the real truth to come out in art.    
 
-“Oh, it looks nice. The composition is pretty. Magritte made the red tiled roofs provide a contrast to the geometric pattern of falling bowler hat men.”    
+<figure>
+	<img src="{{ site.url }}/images/Golconda.jpg" alt="Golconda by Magritte" style="width: 35em; margin: 1em 7.5em 0.5em 7.5em;"/>
+	<figcaption style="text-align: center;"><i>Goldonda by Magritte</i></figcaption>
+</figure>   
 
-No. Ceci n’est pas une pipe. Ceci n’est pas une histoire. Ceci n’est pas. It is not.    
+_“Oh, it looks nice. The composition is pretty. Magritte made the red tiled roofs provide a contrast to the geometric pattern of falling bowler hat men.”_    
+
+Nah. Ceci n’est pas une pipe. Ceci n’est pas une histoire. Ceci n’est pas. It is not.    
 
 <p style="text-align: center; font-weight: 500">•</p>
 
