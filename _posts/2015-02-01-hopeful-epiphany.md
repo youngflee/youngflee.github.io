@@ -8,7 +8,7 @@ title: A Hopeful Epiphany
 {{ page.title }}
 ================
 
-<p class="meta">01 Feb 2015 - Buffalo Grove, Illinois - 6:34 AM</p>
+<p class="meta">01 Feb 2015 - Buffalo Grove, Illinois - 06:34</p>
 
 About a week ago, I had an epiphany. The epiphany was that I (myself, not anyone else) should live my life according to the maxim "live life for others."    
 
