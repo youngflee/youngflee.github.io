@@ -8,7 +8,7 @@ title: Ceci n’est pas une histoire
 
 <p class="meta">01 Oct 2016 - Buffalo Grove, Illinois - 02:04</p>
 
-_All the movies I listed in the last blog were really terrific! (except Goldfinger, which was alright I guess) I rated them like this:_
+_All the movies I listed in the last blog were really terrific! (except Goldfinger, which was still pretty good) I rated them like this:_
 
 - _Princess Momonoke: 9.5/10_
 - _The Big Lebowski: 7.5/10_
@@ -16,7 +16,7 @@ _All the movies I listed in the last blog were really terrific! (except Goldfing
 - _Upstream Color: 8.5/10_
 - _Apocalypse Now: 9/10_
 - _The Third Man: 9/10_
-- _Goldfinger: 6.5/10_
+- _Goldfinger: 7/10_
 
 _I have watched a couple of other movies in the meantime (Primer, Edge of Tomorrow, There Will Be Blood), but I haven't a ton of time to dedicate to this one-movie-a-day endeavor. Turns out, it's actually really hard fitting all those movies into a daily schedule! I'll try to write up my thoughts on all of them eventually, but to hold you over in the meantime, here's an essay I wrote about stories._<br /> <br /><br /><br />
 
