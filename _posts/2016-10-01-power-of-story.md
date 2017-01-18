@@ -62,7 +62,7 @@ The rest of the song is a flurry of distorted guitar over the words Jennifer sai
 
 	Well, I should be laughing right now.    
 
-The song sputters to an end, arpeggios on B and G chords slowing to a halt. The story closes just as it began: in silence.    
+The song sputters to an end, B and G chord arpeggios slowing to a halt. The story closes just as it began: in silence.    
 
 “He was bored and tired of my laments.” A sigh. I watched Jesus’s eyes glaze over, staring at the pathetic sight that lay before him. I gazed back, and said, “Well, I should be laughing right now…”    
 
