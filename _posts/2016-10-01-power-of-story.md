@@ -107,7 +107,7 @@ Nah. Ceci n’est pas une pipe. Ceci n’est pas une histoire. Ceci n’est pas.
 
 <p style="text-align: center; font-weight: 500">•</p>
 
-_Many thanks to Brand New, James Algar, Walt Disney Pictures, René Magritte, and countless other artists for providing stories that have been central to my life._    
+_Many thanks to Brand New, James Algar, Walt Disney Pictures, René Magritte, and countless other artists for providing beautiful, emotional, senseless stories to last a lifetime._    
 
 _Rest in Peace_  
 _Satoshi Kon_  
