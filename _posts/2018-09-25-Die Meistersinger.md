@@ -1,9 +1,9 @@
 ---
 layout: post
-title: _Die Meistersinger_
+title: Die Meistersinger
 ---
 
-{{ page.title }}
+<i>{{ page.title }}</i>
 ================
 
 <p class="meta">25 Sep 2018 - Stanford, CA - 18:00</p>
