@@ -8,9 +8,9 @@ title: Waiting For This Day to End
 
 <p class="meta">25 Nov 2018 - Stanford, CA - 18:00</p>
 
-_“And language just happened, it was never planned;
-And it’s inadequate to describe where I am:
-In the room of my house, where the light’s never been,
+_“And language just happened, it was never planned;  
+And it’s inadequate to describe where I am:  
+In the room of my house, where the light’s never been,  
 Waiting for this day to end…”_    
 
 I’ll put an epigraph where a pen ought to be, and it’ll all be alright. I live in sincere genuflection, a kneel in pooling light to whirling, vortical forces just barely out of view; and such and such always manages to smooth the routine malaise of the typical reader. Take your time; make it easy; maybe sometimes.    
@@ -21,11 +21,11 @@ Nothing. And so, I stay silent. I sit on my bed, gaze up at the raucous clock, a
 
 <p style="text-align: center; font-weight: 500">•</p>
 
-_“The night they drove old Dixie down,
-And all the bells were ringin’;
-The night they drove old Dixie down,
-And all the people were singin’; they went,
-La la, na-na na-na-na-nah:
+_“The night they drove old Dixie down,  
+And all the bells were ringin’;  
+The night they drove old Dixie down,  
+And all the people were singin’; they went,  
+La la, na-na na-na-na-nah:  
 La-la-na-na, na-na-na-nah…”_
 
 Soon after Chester Bennington died, I reflected on the fact that you could put the end of a belt between a dorm door and the frame, and it would hang limply, and would not fall: a comforting constancy for some, an unsettling devil under the bed for me, one that would never arise again, but which seemed to haunt the phantasmic space curving around the brown edges of the door.    
@@ -36,9 +36,9 @@ Amidst blindness, he may never know. And so, as railroads are reassembled, he an
 
 <p style="text-align: center; font-weight: 500">•</p>
 
-_“Tears of rage, tears of grief;
-Why must I always be the thief?
-Come to me now, you know we're so alone –
+_“Tears of rage, tears of grief;  
+Why must I always be the thief?  
+Come to me now, you know we're so alone –  
 And life is brief…”_
 
 And now, the heart is filled with gold, as if it was a purse. We are raised by the great Mother Mary, who came to Anselm Kiefer at age 6 with a visage like a painting. She never appeared to me. At age 8, through the haze of misty willow trees drooping in the afternoon air, I saw a ghostly face breathing, blinking. It filled my heart, and I felt my veins freezing into statuette veins that would thaw in the heat of a summer night where I would boil, stutter, and die alongside the beautiful, benevolent Mary.    
