@@ -3,9 +3,7 @@ layout: post
 title: Die Meistersinger
 ---
 
-<i>{{ page.title }}</i>
-================
-
+<div class="header"><i>{{ page.title }}</i></div>
 <p class="meta">25 Sep 2018 - Stanford, CA - 18:00</p>
 
 My grandfather escaped from North Korea in the midst of the Korean war when he realized the danger of staying in the village where he lived. Quietly, in the middle of the night, he dragged a boat to the water with two other young men from his town, and they alone, family-less, set away. He arrived in what would become South Korea, and worked in labor camps, the typical but tragic way to eat, drink, and tenuously tread water during post-war reconstruction. After some time, he became an important freight-forwarding business owner. I have magazines on my bookshelf with his wry, dry smile on the covers.    

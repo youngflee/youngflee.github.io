@@ -3,8 +3,7 @@ layout: post
 title: Waiting For This Day to End
 ---
 
-<i>{{ page.title }}</i>
-================
+<div class="header"><i>{{ page.title }}</i></div>
 
 <p class="meta">25 Nov 2018 - Stanford, CA - 18:00</p>
 

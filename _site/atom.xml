@@ -4,7 +4,7 @@
   <title>Young Fenimore Lee</title>
   <link href="https://slinky773.github.io/atom.xml" rel="self"/>
   <link href="https://slinky773.github.io/"/>
-  <updated>2019-08-23T03:56:03-05:00</updated>
+  <updated>2019-10-28T19:08:00-05:00</updated>
   <id>https://slinky773.github.io/</id>
   <author>
     <name>Young Fenimore Lee</name>
@@ -17,7 +17,7 @@
     <link href="https://slinky773.github.io/2019/02/07/Waiting-For-This-Day-to-End.html"/>
     <updated>2019-02-07T00:00:00-06:00</updated>
     <id>https://slinky773.github.io/2019/02/07/Waiting For This Day to End</id>
-    <content type="html">&lt;h1 id=&quot;waiting-for-this-day-to-end&quot;&gt;&lt;i&gt;Waiting For This Day to End&lt;/i&gt;&lt;/h1&gt;
+    <content type="html">&lt;div class=&quot;header&quot;&gt;&lt;i&gt;Waiting For This Day to End&lt;/i&gt;&lt;/div&gt;
 
 &lt;p class=&quot;meta&quot;&gt;25 Nov 2018 - Stanford, CA - 18:00&lt;/p&gt;
 
@@ -83,8 +83,7 @@ And life is brief…”&lt;/em&gt;&lt;/p&gt;
     <link href="https://slinky773.github.io/2018/09/25/Die-Meistersinger.html"/>
     <updated>2018-09-25T00:00:00-05:00</updated>
     <id>https://slinky773.github.io/2018/09/25/Die Meistersinger</id>
-    <content type="html">&lt;h1 id=&quot;die-meistersinger&quot;&gt;&lt;i&gt;Die Meistersinger&lt;/i&gt;&lt;/h1&gt;
-
+    <content type="html">&lt;div class=&quot;header&quot;&gt;&lt;i&gt;Die Meistersinger&lt;/i&gt;&lt;/div&gt;
 &lt;p class=&quot;meta&quot;&gt;25 Sep 2018 - Stanford, CA - 18:00&lt;/p&gt;
 
 &lt;p&gt;My grandfather escaped from North Korea in the midst of the Korean war when he realized the danger of staying in the village where he lived. Quietly, in the middle of the night, he dragged a boat to the water with two other young men from his town, and they alone, family-less, set away. He arrived in what would become South Korea, and worked in labor camps, the typical but tragic way to eat, drink, and tenuously tread water during post-war reconstruction. After some time, he became an important freight-forwarding business owner. I have magazines on my bookshelf with his wry, dry smile on the covers.&lt;/p&gt;
