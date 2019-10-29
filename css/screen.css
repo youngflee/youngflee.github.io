@@ -20,7 +20,7 @@ body {
   color: #3d3c41;
   font-family: "fira-sans";
   font-style: normal;
-  font-size: 15px;
+  *font-size: small;
   font-weight: 300;
 }
 
