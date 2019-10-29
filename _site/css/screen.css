@@ -20,7 +20,7 @@ body {
   color: #3d3c41;
   font-family: "fira-sans";
   font-style: normal;
-  *font-size: small;
+  font-size: 15px;
   font-weight: 300;
 }
 
@@ -28,12 +28,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   letter-spacing: 1px;
   font-stretch: expanded;
-}
-
-.header {
-  font-size: 125%;
-  margin-bottom: 1em;
-  font-weight: 300;
 }
 
 p {
@@ -118,6 +112,22 @@ ul.posts span {
   margin: 4em 13px;
   text-decoration: none;
   color: #353e43
+}
+
+.site .header {
+  font-size: 125%;
+  margin-bottom: 1em;
+  font-weight: 300;
+}
+
+@media only screen and (max-width: 780px) {
+  .site .navbar {
+    font-size: 200%!important;
+  }
+
+  .site .header {
+    font-size: 150%!important;
+  }
 }
 
 .site .footer {
