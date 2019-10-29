@@ -15,30 +15,6 @@ html {
     -webkit-text-size-adjust: 100%!important; /* Prevent font scaling in landscape while allowing user zoom */
 }
 
-@media only screen and (min-width: 576px) {
-  .site {
-    font-size: 15px;
-  }
-}
-
-@media only screen and (min-width: 491px) and (max-width: 575px) {
-  .site {
-    font-size: 14px;
-  }
-}
-
-@media only screen and (min-width: 441px) and (max-width: 490px) {
-  .site {
-    font-size: 13px;
-  }
-}
-
-@media only screen and (min-width: 401px) and (max-width: 440px) {
-  .site {
-    font-size: 12px;
-  }
-}
-
 html, body {
   height: 95%;
 }
@@ -48,6 +24,7 @@ body {
   color: #3d3c41;
   font-family: "fira-sans";
   font-style: normal;
+  font-size: 15px;
   font-weight: 300;
 }
 
