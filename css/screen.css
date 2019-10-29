@@ -15,6 +15,42 @@ html {
     -webkit-text-size-adjust: 100%!important; /* Prevent font scaling in landscape while allowing user zoom */
 }
 
+@media only screen and (min-width: 576px) {
+  .site {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (min-width: 491px) and (max-width: 575px) {
+  .site {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 441px) and (max-width: 490px) {
+  .site {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 440px) {
+  .site {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 351px) and (max-width: 400px) {
+  .site {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (min-width: 301px) and (max-width: 350px) {
+  .site {
+    font-size: 9px;
+  }
+}
+
 html, body {
   height: 95%;
 }
