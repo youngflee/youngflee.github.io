@@ -23,31 +23,19 @@ html {
 
 @media only screen and (min-width: 491px) and (max-width: 575px) {
   .site {
-    font-size: 13px;
+    font-size: 14px;
   }
 }
 
 @media only screen and (min-width: 441px) and (max-width: 490px) {
   .site {
-    font-size: 12px;
+    font-size: 13px;
   }
 }
 
 @media only screen and (min-width: 401px) and (max-width: 440px) {
   .site {
-    font-size: 11px;
-  }
-}
-
-@media only screen and (min-width: 351px) and (max-width: 400px) {
-  .site {
-    font-size: 10px;
-  }
-}
-
-@media only screen and (min-width: 301px) and (max-width: 350px) {
-  .site {
-    font-size: 9px;
+    font-size: 12px;
   }
 }
 
@@ -60,7 +48,6 @@ body {
   color: #3d3c41;
   font-family: "fira-sans";
   font-style: normal;
-  *font-size: small;
   font-weight: 300;
 }
 
