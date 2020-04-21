@@ -7,7 +7,7 @@ title: The Absolute Basics
 
 <p class="meta">21 Apr 2020 - Stanford, CA - 01:00</p>
 
-We’re going to start with the absolute basics. This is my document.<br /><br />
+We’re going to start with the absolute basics. _This is my document._<br /><br />
 
 _I’m sitting alone in the car with the dreamcatcher_<br />
 _hanging by the windshield. June<br />_
