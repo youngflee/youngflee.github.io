@@ -5,7 +5,7 @@ title: The Absolute Basics
 
 <div class="header"><i>{{ page.title }}</i></div>
 
-<p class="meta">21 Apr 2020 - Stanford, CA - 01:00</p>
+<p class="meta">20 Apr 2020 - Stanford, CA - 23:00</p>
 
 We’re going to start with the absolute basics. _This is my document._<br /><br />
 
