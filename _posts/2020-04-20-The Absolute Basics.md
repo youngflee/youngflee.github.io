@@ -7,6 +7,8 @@ title: The Absolute Basics
 
 <p class="meta">20 Apr 2020 - Stanford, CA - 23:00</p>
 
+**trigger warning / content warning: suicidal ideation**
+
 We’re going to start with the absolute basics. _This is my document._<br /><br />
 
 _I’m sitting alone in the car with the dreamcatcher_<br />
