@@ -126,7 +126,11 @@ ul.posts span {
   }
 
   .site .header {
-    font-size: 150%!important;
+    font-size: 175%!important;
+  }
+
+  .site p {
+    font-size: 110%!important;
   }
 }
 
